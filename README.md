@@ -33,12 +33,12 @@ Below is a list of all the key files and what each one does:
 
 ### 📊 Data Visualization
 
-- **`graphics.py`**  
+- **`graphics.py`**  (inside "graficas_generadas" folder)
   Generates charts from the cleaned dataset, including:
   - Top 10 most frequent artists
   - Correlation heatmap
 
-- **`more_graphics.py`**  
+- **`more_graphics.py`**  (inside "more_charts" folder)
   Additional visualizations:
   - Top 10 albums with most songs
   - Boxplot of artist hotttnesss (for top 5 artists)
