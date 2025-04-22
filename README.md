@@ -31,6 +31,14 @@ Below is a list of all the key files and what each one does:
 - **`test_dataCleansing.py`**  
   Unit tests specifically written for testing the data cleaning functions.
 
+- **`report.html`**  
+  Automatically generated with [`pytest-html`](https://pypi.org/project/pytest-html/), this file presents a visual summary of all unit tests.  
+  It includes pass/fail status, execution time, and detailed logs for debugging.  
+  Open it in your browser to quickly assess code quality and ensure all components behave as expected.
+  To generate this file, run:
+  ```bash
+  pytest --html=report.html
+
 ### 📊 Data Visualization
 
 - **`graphics.py`**  (inside "graficas_generadas" folder)
