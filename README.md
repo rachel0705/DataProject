@@ -72,6 +72,9 @@ Below is a list of all the key files and what each one does:
   
 - **`hipotesis fase 3 big data.pdf`**  
   The 5 hypotheses raised at the beginning of the project when it had an application focus.
+
+- **`big data mockups.pdf`**  
+  Four screens showing how the music app would look if the front-end is developed.
   
 ## 🏗️ Infrastructure & Tools Used
 
