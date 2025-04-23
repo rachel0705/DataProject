@@ -1,6 +1,6 @@
 # 🎵 Music Recommendation System - Data Exploration & Processing
 
-This project is a simplified academic system designed to process and explore music data from the [Million Song Subset](https://labrosa.ee.columbia.edu/millionsong/), extract useful insights, and prepare it for potential use in recommendation algorithms.
+This project is a simplified academic system designed to process and explore music data from the [Million Song Subset](http://millionsongdataset.com/), extract useful insights, and prepare it for potential use in recommendation algorithms.
 
 ## 📂 Project Structure
 
