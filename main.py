@@ -13,4 +13,3 @@ def find_h5_files(directory):
 # Set the top-level directory where your HDF5 files start
 directory = r"C:\Users\cvhre\OneDrive\Escritorio\BigDataMusicProject\millionsongsubset"
 find_h5_files(directory)
-#just a test
